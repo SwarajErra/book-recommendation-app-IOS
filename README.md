@@ -1,1 +1,1 @@
-# book-recommendation-app-IOS
+# BookRec
